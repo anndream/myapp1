@@ -1,0 +1,8 @@
+{
+	"myapp1/css/myapp1.css": [
+		"public/css/myapp-demo.css"
+	],
+	"myapp1/js/myapp1.js": [
+		"public/js/myapp-demo.js"
+	]
+}
