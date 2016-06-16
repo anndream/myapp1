@@ -1,1 +1,4 @@
-alert("Hello from myapp-demo.js");
+
+function action(){
+    alert("Hello from myapp-demo.js");
+}
