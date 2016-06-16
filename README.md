@@ -1,6 +1,7 @@
 ## Myapp1
 
-Demo app 
+Demo erpnext app
+with javascript and css
 
 #### License
 
